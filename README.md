@@ -1,9 +1,16 @@
-  <p>Hi, My name is Alexsander de Carvalho Pereira</p>
-<p>- 😄 I'm Brazilian I'm 25 years old and I'm studying systems analysis and development
-<p>- 📚 I'm currently learning javascript, css3, html5, php and c#
-<p>- 👉 Looking for a internship opportunity as a front end developer
-<p>- 📫 My mail alex_01366@outlook.com my phone (11)99796-7559
-<!---
-rexpereira/rexpereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello people i'm Alex!
+
+- 📚 I have a degree in systems analysis and development
+- 🫡 Currently looking for a job opportunity as a programming assistant or trainee
+- 😉 Brazilian but I have good knowledge of English, both written and spoken
+
+## Programming languages ​​that I currently studying !
+<div style="display: inline_block"><br/>
+<img align="center"  alt="java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center"  alt="C#" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center"  alt="MYSQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+## 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexpereira&show_icons=true&theme=dracula)
+
